@@ -1,5 +1,4 @@
-# pandas-homework
-## Unit 4 Homework Assignment: A Whale Off the Port(folio)
+# A Whale Off the Port(folio)
 
 
 ## Background
